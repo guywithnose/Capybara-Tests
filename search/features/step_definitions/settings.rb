@@ -1,5 +1,5 @@
 class Settings
   def self.environment
-    'php5dev'
+    'www'
   end
 end

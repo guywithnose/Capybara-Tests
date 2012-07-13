@@ -8,4 +8,4 @@ Scenario: Search by make
 
   When I select "BMW" make
   And I click the search button
-  Then The search should include "BMW"
+  Then The search should include "Bmw"
